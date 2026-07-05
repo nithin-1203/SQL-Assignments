@@ -1,8 +1,10 @@
+#SQL Assignments
+
 Welcome to my SQL learning repository!
 
 This repository contains my SQL assignments and practice queries completed while learning SQL for Data Analytics.
 
-Topics Covered
+#Topics Covered
 
 - SELECT
 - WHERE
@@ -14,14 +16,14 @@ Topics Covered
 - Subqueries
 - Window Functions (Coming Soon)
 
-Tools Used
+#Tools Used
 
 - MySQL
 - MySQL Workbench
 - Git
 - GitHub
 
-Purpose
+#Purpose
 
 This repository showcases my progress in SQL and serves as a portfolio of my practical work and assignments.
 
